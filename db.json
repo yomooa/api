@@ -1,0 +1,74 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "titulo": "Sky: Children of the Light",
+      "fecha_de_lanzamiento": "2019-07-18",
+      "genero": "Aventura, Social",
+      "descripcion": "Sky: Children of the Light es un juego de aventura social donde los jugadores exploran un reino mágico en el cielo. Los jugadores asumen el papel de 'Niños de la Luz' y deben devolver las estrellas caídas a sus constelaciones. El juego enfatiza la cooperación, la exploración y la conexión con otros jugadores en un entorno hermoso y onírico."
+    },
+    {
+      "id": 2,
+      "titulo": "Among Us",
+      "fecha_de_lanzamiento": "2018-06-15",
+      "genero": "Multijugador, Deducción Social",
+      "descripcion": "Among Us es un juego multijugador donde los jugadores trabajan juntos para completar tareas en una nave espacial, mientras que algunos jugadores son impostores que intentan eliminar a la tripulación. El juego es conocido por su jugabilidad de deducción social, donde los jugadores deben discutir y votar para expulsar a los impostores sospechosos."
+    },
+    {
+      "id": 3,
+      "titulo": "Genshin Impact",
+      "fecha_de_lanzamiento": "2020-09-28",
+      "genero": "RPG de Acción, Mundo Abierto",
+      "descripcion": "Genshin Impact es un juego de rol de acción en un mundo abierto ambientado en el mundo de fantasía de Teyvat. Los jugadores exploran el mundo, completan misiones y luchan contra enemigos utilizando magia elemental y una variedad de personajes únicos. El juego es conocido por su hermoso estilo artístico y su profunda historia."
+    },
+    {
+      "id": 4,
+      "titulo": "Clash Royale",
+      "fecha_de_lanzamiento": "2016-03-02",
+      "genero": "Estrategia, Juego de Cartas",
+      "descripcion": "Clash Royale es un juego multijugador en tiempo real donde los jugadores coleccionan y mejoran cartas que presentan tropas, hechizos y defensas de Clash of Clans. Los jugadores deben desplegar estratégicamente sus cartas en batalla para destruir las torres del oponente y ganar trofeos."
+    },
+    {
+      "id": 5,
+      "titulo": "Pokémon GO",
+      "fecha_de_lanzamiento": "2016-07-06",
+      "genero": "Realidad Aumentada, Aventura",
+      "descripcion": "Pokémon GO es un juego móvil de realidad aumentada que anima a los jugadores a explorar el mundo real para atrapar Pokémon, completar misiones y luchar en gimnasios y incursiones. El juego utiliza tecnología GPS y AR para crear una experiencia inmersiva para los fanáticos de Pokémon."
+    },
+    {
+      "id": 6,
+      "titulo": "PUBG Mobile",
+      "fecha_de_lanzamiento": "2018-03-19",
+      "genero": "Battle Royale, Shooter",
+      "descripcion": "PUBG Mobile es un shooter de batalla real donde 100 jugadores luchan para ser el último en pie en una gran isla. Los jugadores deben encontrar armas, equipo y vehículos para sobrevivir mientras el área de juego se reduce gradualmente, forzando encuentros entre los jugadores."
+    },
+    {
+      "id": 7,
+      "titulo": "Call of Duty: Mobile",
+      "fecha_de_lanzamiento": "2019-10-01",
+      "genero": "Shooter en Primera Persona",
+      "descripcion": "Call of Duty: Mobile es un juego de disparos en primera persona que trae la clásica experiencia de Call of Duty a dispositivos móviles. El juego cuenta con varios modos multijugador, incluidos Team Deathmatch, Battle Royale y Zombies, junto con una variedad de armas y personajes de la serie."
+    },
+    {
+      "id": 8,
+      "titulo": "Minecraft",
+      "fecha_de_lanzamiento": "2011-08-16",
+      "genero": "Sandbox, Aventura",
+      "descripcion": "Minecraft es un juego de sandbox que permite a los jugadores construir y explorar sus propios mundos hechos de bloques. Los jugadores pueden recolectar recursos, fabricar objetos y crear estructuras en un mundo generado proceduralmente. El juego tiene modos creativo y supervivencia, ofreciendo infinitas posibilidades para la creatividad."
+    },
+    {
+      "id": 9,
+      "titulo": "Candy Crush Saga",
+      "fecha_de_lanzamiento": "2012-11-14",
+      "genero": "Puzzle, Casual",
+      "descripcion": "Candy Crush Saga es un popular juego de puzzle match-three donde los jugadores intercambian caramelos de colores para hacer coincidir tres o más y eliminarlos del tablero. El juego cuenta con cientos de niveles con diferentes objetivos y obstáculos, haciendo que sea una experiencia divertida y desafiante."
+    },
+    {
+      "id": 10,
+      "titulo": "N.O.V.A. 3 Freedom Edition",
+      "fecha_de_lanzamiento": "2012-05-10",
+      "genero": "Shooter en Primera Persona, Ciencia Ficción",
+      "descripcion": "N.O.V.A. 3 es un juego de disparos en primera persona ambientado en un universo de ciencia ficción. Los jugadores asumen el papel de Kal Wardin, un ex marine de la Near Orbit Vanguard Alliance (N.O.V.A.), quien debe luchar contra alienígenas y fuerzas hostiles para salvar a la humanidad. El juego ofrece una campaña de un jugador con una historia envolvente, así como modos multijugador en línea."
+    }
+  ]
+}
